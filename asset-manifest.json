@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/examenluz/static/css/main.a11c249c.css",
-    "main.js": "/examenluz/static/js/main.d6fa448f.js",
-    "static/js/787.cc4e593a.chunk.js": "/examenluz/static/js/787.cc4e593a.chunk.js",
-    "index.html": "/examenluz/index.html",
-    "main.a11c249c.css.map": "/examenluz/static/css/main.a11c249c.css.map",
-    "main.d6fa448f.js.map": "/examenluz/static/js/main.d6fa448f.js.map",
-    "787.cc4e593a.chunk.js.map": "/examenluz/static/js/787.cc4e593a.chunk.js.map"
+    "main.css": "/lu2/static/css/main.a11c249c.css",
+    "main.js": "/lu2/static/js/main.485b66fe.js",
+    "static/js/787.cc4e593a.chunk.js": "/lu2/static/js/787.cc4e593a.chunk.js",
+    "index.html": "/lu2/index.html",
+    "main.a11c249c.css.map": "/lu2/static/css/main.a11c249c.css.map",
+    "main.485b66fe.js.map": "/lu2/static/js/main.485b66fe.js.map",
+    "787.cc4e593a.chunk.js.map": "/lu2/static/js/787.cc4e593a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a11c249c.css",
-    "static/js/main.d6fa448f.js"
+    "static/js/main.485b66fe.js"
   ]
 }
